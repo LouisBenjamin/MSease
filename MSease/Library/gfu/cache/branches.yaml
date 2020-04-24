@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-04-24T12:43:50.406-04:00
-  initializedAtString: 2020-04-24T12:43:50.253-04:00
+  lastUpdatedAtString: 2020-04-24T12:59:55.700-04:00
+  initializedAtString: 2020-04-24T12:59:55.679-04:00
   localBranches:
   - name: basicGrid
     tracking: origin/basicGrid
@@ -28,6 +28,8 @@ MonoBehaviour:
     tracking: origin/testBranch
   remoteBranches:
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/testBranch
     tracking: '[None]'
   remotes:
   - name: origin
@@ -76,9 +78,15 @@ MonoBehaviour:
     subKeys:
     - Values:
       - master
+      - testBranch
     subKeyValues:
     - Values:
       - name: master
+        remote:
+          name: origin
+          url: https://github.com/LouisBenjamin/MSease.git
+        trackingBranch: 
+      - name: testBranch
         remote:
           name: origin
           url: https://github.com/LouisBenjamin/MSease.git

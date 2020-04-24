@@ -13,9 +13,1461 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-04-24T12:44:41.378-04:00
-  initializedAtString: 2020-04-24T12:43:36.431-04:00
+  lastUpdatedAtString: 2020-04-24T12:59:55.522-04:00
+  initializedAtString: 2020-04-24T12:59:55.522-04:00
   log:
+  - commitID: 6f1fe9ee0b6b8cbc7acc6bdbe3d3c5459049fcb6
+    mergeA: 
+    mergeB: 
+    authorName: Felix Morin
+    authorEmail: felixmorin77@gmail.com
+    commitEmail: felixmorin77@gmail.com
+    commitName: Felix Morin
+    summary: GitHub for Unity
+    description: 
+    timeString: 2020-04-24T12:48:31.000-04:00
+    commitTimeString: 2020-04-24T12:48:31.000-04:00
+    changes:
+    - path: MSease\Assets\Plugins.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ArtifactDB
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\00\0029a2ff3300fae36074d403b21091e5
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\00\0029a2ff3300fae36074d403b21091e5
+      projectPath: Library\Artifacts\00\0029a2ff3300fae36074d403b21091e5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\02\020e9b4c4fe14763d8ebfc54c713d0a1
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\02\020e9b4c4fe14763d8ebfc54c713d0a1
+      projectPath: Library\Artifacts\02\020e9b4c4fe14763d8ebfc54c713d0a1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\06\06d7893ebc9cb0405a7a1342015b92a2
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\06\06d7893ebc9cb0405a7a1342015b92a2
+      projectPath: Library\Artifacts\06\06d7893ebc9cb0405a7a1342015b92a2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\06\06de550fb76608547d1869b5bca45706
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\06\06de550fb76608547d1869b5bca45706
+      projectPath: Library\Artifacts\06\06de550fb76608547d1869b5bca45706
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\0b\0b241569d5f9b79520280d2ab4d29e19
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\0b\0b241569d5f9b79520280d2ab4d29e19
+      projectPath: Library\Artifacts\0b\0b241569d5f9b79520280d2ab4d29e19
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\0b\0b7a3fede8b1d4ebbdb4972f404975d9
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\0b\0b7a3fede8b1d4ebbdb4972f404975d9
+      projectPath: Library\Artifacts\0b\0b7a3fede8b1d4ebbdb4972f404975d9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\0e\0e2c026f69543b4610563ac4101014d8
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\0e\0e2c026f69543b4610563ac4101014d8
+      projectPath: Library\Artifacts\0e\0e2c026f69543b4610563ac4101014d8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\10\10bce945f98fb8330b3a1a5f4f426995
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\10\10bce945f98fb8330b3a1a5f4f426995
+      projectPath: Library\Artifacts\10\10bce945f98fb8330b3a1a5f4f426995
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\12\12c6498466fc67a34db0252c8388a8e5
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\12\12c6498466fc67a34db0252c8388a8e5
+      projectPath: Library\Artifacts\12\12c6498466fc67a34db0252c8388a8e5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\13\13da2d49b135b37ef194fe89a386e61a
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\13\13da2d49b135b37ef194fe89a386e61a
+      projectPath: Library\Artifacts\13\13da2d49b135b37ef194fe89a386e61a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\18\1878d4dfc7e139b7b98bf4d80061f311
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\18\1878d4dfc7e139b7b98bf4d80061f311
+      projectPath: Library\Artifacts\18\1878d4dfc7e139b7b98bf4d80061f311
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\19\1949609bf94add6a473fa636635ee277
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\19\1949609bf94add6a473fa636635ee277
+      projectPath: Library\Artifacts\19\1949609bf94add6a473fa636635ee277
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\1a\1a7d0901ee50458b90d9ee127636ddf3
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\1a\1a7d0901ee50458b90d9ee127636ddf3
+      projectPath: Library\Artifacts\1a\1a7d0901ee50458b90d9ee127636ddf3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\1b\1bd3220a964becdac58d572aa304e238
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\1b\1bd3220a964becdac58d572aa304e238
+      projectPath: Library\Artifacts\1b\1bd3220a964becdac58d572aa304e238
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\23\2339278a9115c79ee1e5d22a43748545
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\23\2339278a9115c79ee1e5d22a43748545
+      projectPath: Library\Artifacts\23\2339278a9115c79ee1e5d22a43748545
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\28\283a41a3ee08ec3b889f243e8d22a547
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\28\283a41a3ee08ec3b889f243e8d22a547
+      projectPath: Library\Artifacts\28\283a41a3ee08ec3b889f243e8d22a547
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\29\29e50ed050cb1d6a0b1ff9c1aa512a83
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\29\29e50ed050cb1d6a0b1ff9c1aa512a83
+      projectPath: Library\Artifacts\29\29e50ed050cb1d6a0b1ff9c1aa512a83
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\2a\2a28d1d3ab59e81679f2782726fd4dcd
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\2a\2a28d1d3ab59e81679f2782726fd4dcd
+      projectPath: Library\Artifacts\2a\2a28d1d3ab59e81679f2782726fd4dcd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\31\311a3faeeaaa9bf5f4bdf2232471452e
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\31\311a3faeeaaa9bf5f4bdf2232471452e
+      projectPath: Library\Artifacts\31\311a3faeeaaa9bf5f4bdf2232471452e
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\32\32aaed923c937a49142cab1000c850b0
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\32\32aaed923c937a49142cab1000c850b0
+      projectPath: Library\Artifacts\32\32aaed923c937a49142cab1000c850b0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\37\37630827181ddc9e9ad1e39a01a44453
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\37\37630827181ddc9e9ad1e39a01a44453
+      projectPath: Library\Artifacts\37\37630827181ddc9e9ad1e39a01a44453
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\38\3863e9b1738fa5b44184afabaf2b759c
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\38\3863e9b1738fa5b44184afabaf2b759c
+      projectPath: Library\Artifacts\38\3863e9b1738fa5b44184afabaf2b759c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\39\396b9b294a0dcb3d11102c96d4ba350a
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\39\396b9b294a0dcb3d11102c96d4ba350a
+      projectPath: Library\Artifacts\39\396b9b294a0dcb3d11102c96d4ba350a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\3a\3a4af273b3bd60abf3d431f46d492ce4
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\3a\3a4af273b3bd60abf3d431f46d492ce4
+      projectPath: Library\Artifacts\3a\3a4af273b3bd60abf3d431f46d492ce4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\3c\3c1c82f2c0f2ed34da0749a8603d2a56
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\3c\3c1c82f2c0f2ed34da0749a8603d2a56
+      projectPath: Library\Artifacts\3c\3c1c82f2c0f2ed34da0749a8603d2a56
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\3f\3f563c95a48f73e4babcaa058300a271
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\3f\3f563c95a48f73e4babcaa058300a271
+      projectPath: Library\Artifacts\3f\3f563c95a48f73e4babcaa058300a271
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\4c\4c7f5ccf8f32a7be518d8ea43140e3e2
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\4c\4c7f5ccf8f32a7be518d8ea43140e3e2
+      projectPath: Library\Artifacts\4c\4c7f5ccf8f32a7be518d8ea43140e3e2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\4e\4e756899885bed7b18e8d3ddc1b61b2f
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\4e\4e756899885bed7b18e8d3ddc1b61b2f
+      projectPath: Library\Artifacts\4e\4e756899885bed7b18e8d3ddc1b61b2f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\4f\4f3abf64a992ecac9f2e3bd35d399fd7
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\4f\4f3abf64a992ecac9f2e3bd35d399fd7
+      projectPath: Library\Artifacts\4f\4f3abf64a992ecac9f2e3bd35d399fd7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\50\505565a519a50ae7b5984cba6898ebd0
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\50\505565a519a50ae7b5984cba6898ebd0
+      projectPath: Library\Artifacts\50\505565a519a50ae7b5984cba6898ebd0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\50\50f74193e1d4482af7d8b3a3567d9d03
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\50\50f74193e1d4482af7d8b3a3567d9d03
+      projectPath: Library\Artifacts\50\50f74193e1d4482af7d8b3a3567d9d03
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\56\560bdc3d713cff3c206ec7e41506c486
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\56\560bdc3d713cff3c206ec7e41506c486
+      projectPath: Library\Artifacts\56\560bdc3d713cff3c206ec7e41506c486
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\56\56a4b572bf7a15e889af305091b8171d
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\56\56a4b572bf7a15e889af305091b8171d
+      projectPath: Library\Artifacts\56\56a4b572bf7a15e889af305091b8171d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\58\5842cebd581b4d24c3e34e19f0ce555f
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\58\5842cebd581b4d24c3e34e19f0ce555f
+      projectPath: Library\Artifacts\58\5842cebd581b4d24c3e34e19f0ce555f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\5c\5c09112b2919875a74b04595541795fb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\5c\5c09112b2919875a74b04595541795fb
+      projectPath: Library\Artifacts\5c\5c09112b2919875a74b04595541795fb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\60\603d532184b810636f80ea93dc323503
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\60\603d532184b810636f80ea93dc323503
+      projectPath: Library\Artifacts\60\603d532184b810636f80ea93dc323503
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\61\61f5ccb89b309e63274f0e57d33b6fef
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\61\61f5ccb89b309e63274f0e57d33b6fef
+      projectPath: Library\Artifacts\61\61f5ccb89b309e63274f0e57d33b6fef
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\66\664dee85d58745a376d2fc5f6f2479b4
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\66\664dee85d58745a376d2fc5f6f2479b4
+      projectPath: Library\Artifacts\66\664dee85d58745a376d2fc5f6f2479b4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\68\686c6fbe2172f1d344df095508383f6a
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\68\686c6fbe2172f1d344df095508383f6a
+      projectPath: Library\Artifacts\68\686c6fbe2172f1d344df095508383f6a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\6d\6d36eea8d3728a4783283ba769aa635d
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\6d\6d36eea8d3728a4783283ba769aa635d
+      projectPath: Library\Artifacts\6d\6d36eea8d3728a4783283ba769aa635d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\6d\6d9a886762049fe80ee855227782db09
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\6d\6d9a886762049fe80ee855227782db09
+      projectPath: Library\Artifacts\6d\6d9a886762049fe80ee855227782db09
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\6e\6eb77346eba07350b829ca584a502391
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\6e\6eb77346eba07350b829ca584a502391
+      projectPath: Library\Artifacts\6e\6eb77346eba07350b829ca584a502391
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\74\74f4d4e90cf3b7efcb34583d59038839
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\74\74f4d4e90cf3b7efcb34583d59038839
+      projectPath: Library\Artifacts\74\74f4d4e90cf3b7efcb34583d59038839
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\76\768d452df4399302571928e39c02ca78
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\76\768d452df4399302571928e39c02ca78
+      projectPath: Library\Artifacts\76\768d452df4399302571928e39c02ca78
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\80\80a1269c005e479a7d8ccd10f2b17a4c
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\80\80a1269c005e479a7d8ccd10f2b17a4c
+      projectPath: Library\Artifacts\80\80a1269c005e479a7d8ccd10f2b17a4c
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\81\816191ab4e5ee7949a14802940419c3a
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\81\816191ab4e5ee7949a14802940419c3a
+      projectPath: Library\Artifacts\81\816191ab4e5ee7949a14802940419c3a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\82\82996b116ef3b28267febf3697b43224
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\82\82996b116ef3b28267febf3697b43224
+      projectPath: Library\Artifacts\82\82996b116ef3b28267febf3697b43224
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\83\83cd86e52d7ff2c6a164ab5b7aedadb1
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\83\83cd86e52d7ff2c6a164ab5b7aedadb1
+      projectPath: Library\Artifacts\83\83cd86e52d7ff2c6a164ab5b7aedadb1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\84\845d1847ab4ee84018dc2b8b5c6f1fbf
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\84\845d1847ab4ee84018dc2b8b5c6f1fbf
+      projectPath: Library\Artifacts\84\845d1847ab4ee84018dc2b8b5c6f1fbf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\85\85df137f568540cf09e05d4f2b22df89
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\85\85df137f568540cf09e05d4f2b22df89
+      projectPath: Library\Artifacts\85\85df137f568540cf09e05d4f2b22df89
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\8b\8b71167480c060a8c4de683e9f8edb57
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\8b\8b71167480c060a8c4de683e9f8edb57
+      projectPath: Library\Artifacts\8b\8b71167480c060a8c4de683e9f8edb57
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\8b\8bb33ec83dfabb2c400435164980137f
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\8b\8bb33ec83dfabb2c400435164980137f
+      projectPath: Library\Artifacts\8b\8bb33ec83dfabb2c400435164980137f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\95\95d4a526cccd123aff6e083714bff4dd
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\95\95d4a526cccd123aff6e083714bff4dd
+      projectPath: Library\Artifacts\95\95d4a526cccd123aff6e083714bff4dd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\97\971f40603ac98f26236bf10119caba44
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\97\971f40603ac98f26236bf10119caba44
+      projectPath: Library\Artifacts\97\971f40603ac98f26236bf10119caba44
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\a1\a1390eb8d5868dbed139b1073c94a3a7
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\a1\a1390eb8d5868dbed139b1073c94a3a7
+      projectPath: Library\Artifacts\a1\a1390eb8d5868dbed139b1073c94a3a7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\b2\b260db94491c2e98b17b3b887dd792e8
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\b2\b260db94491c2e98b17b3b887dd792e8
+      projectPath: Library\Artifacts\b2\b260db94491c2e98b17b3b887dd792e8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\b5\b5ba88c65715b8b7c3f9112f67a318f9
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\b5\b5ba88c65715b8b7c3f9112f67a318f9
+      projectPath: Library\Artifacts\b5\b5ba88c65715b8b7c3f9112f67a318f9
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\b9\b9aab7ae777b9482914484949e104819
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\b9\b9aab7ae777b9482914484949e104819
+      projectPath: Library\Artifacts\b9\b9aab7ae777b9482914484949e104819
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\bf\bf57cf66b9ac02ed7d6290a1e3fa6af3
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\bf\bf57cf66b9ac02ed7d6290a1e3fa6af3
+      projectPath: Library\Artifacts\bf\bf57cf66b9ac02ed7d6290a1e3fa6af3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\c0\c061148feacb17128e42479584577ca6
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\c0\c061148feacb17128e42479584577ca6
+      projectPath: Library\Artifacts\c0\c061148feacb17128e42479584577ca6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\c1\c15d7ce49ee35643a3cc2db2caaa6875
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\c1\c15d7ce49ee35643a3cc2db2caaa6875
+      projectPath: Library\Artifacts\c1\c15d7ce49ee35643a3cc2db2caaa6875
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
+      projectPath: Library\Artifacts\c1\c1aead4d59ccf95872f2e658c228790a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\c3\c3b63d9d8549b4b3728fab1b14a7d726
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\c3\c3b63d9d8549b4b3728fab1b14a7d726
+      projectPath: Library\Artifacts\c3\c3b63d9d8549b4b3728fab1b14a7d726
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\c5\c5d5fb027207f5992f88957e0607755b
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\c5\c5d5fb027207f5992f88957e0607755b
+      projectPath: Library\Artifacts\c5\c5d5fb027207f5992f88957e0607755b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\c7\c7645c47c0fe2064dec22685fd0a7914
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\c7\c7645c47c0fe2064dec22685fd0a7914
+      projectPath: Library\Artifacts\c7\c7645c47c0fe2064dec22685fd0a7914
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\c7\c7fd09a95ebec4b493fca549f1c164ff
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\c7\c7fd09a95ebec4b493fca549f1c164ff
+      projectPath: Library\Artifacts\c7\c7fd09a95ebec4b493fca549f1c164ff
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\ca\cae68a291c2649d9ede5c9d27777618a
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\ca\cae68a291c2649d9ede5c9d27777618a
+      projectPath: Library\Artifacts\ca\cae68a291c2649d9ede5c9d27777618a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\cd\cd849662b0ed5268e2dbf8e860a32c38
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\cd\cd849662b0ed5268e2dbf8e860a32c38
+      projectPath: Library\Artifacts\cd\cd849662b0ed5268e2dbf8e860a32c38
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\d0\d012e9a5ce1b13e01e760507ed9fc910
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\d0\d012e9a5ce1b13e01e760507ed9fc910
+      projectPath: Library\Artifacts\d0\d012e9a5ce1b13e01e760507ed9fc910
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\d3\d386952d67e79e92d1d9b7c4e050d722
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\d3\d386952d67e79e92d1d9b7c4e050d722
+      projectPath: Library\Artifacts\d3\d386952d67e79e92d1d9b7c4e050d722
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\d5\d5c5ac8d0094c23fa1ee6d7cd890be56
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\d5\d5c5ac8d0094c23fa1ee6d7cd890be56
+      projectPath: Library\Artifacts\d5\d5c5ac8d0094c23fa1ee6d7cd890be56
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\d8\d8aa6d25c1a5ce26d9bfcbcd00941bab
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\d8\d8aa6d25c1a5ce26d9bfcbcd00941bab
+      projectPath: Library\Artifacts\d8\d8aa6d25c1a5ce26d9bfcbcd00941bab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\dc\dc52f6a12f4f1625c55d77519683db3d
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\dc\dc52f6a12f4f1625c55d77519683db3d
+      projectPath: Library\Artifacts\dc\dc52f6a12f4f1625c55d77519683db3d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\dc\dcb0d77b7071fbb319e35f10a0f6cab3
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\dc\dcb0d77b7071fbb319e35f10a0f6cab3
+      projectPath: Library\Artifacts\dc\dcb0d77b7071fbb319e35f10a0f6cab3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\dd\dd1adc23fe663d15eff4889a39f20fa4
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\dd\dd1adc23fe663d15eff4889a39f20fa4
+      projectPath: Library\Artifacts\dd\dd1adc23fe663d15eff4889a39f20fa4
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\e3\e3e17f416f1d7a4a94e100c73bc13b47
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\e3\e3e17f416f1d7a4a94e100c73bc13b47
+      projectPath: Library\Artifacts\e3\e3e17f416f1d7a4a94e100c73bc13b47
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\e6\e6b934529408d8ee14a1c7b232e70ac2
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\e6\e6b934529408d8ee14a1c7b232e70ac2
+      projectPath: Library\Artifacts\e6\e6b934529408d8ee14a1c7b232e70ac2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\e8\e8a4f9fca6811be7207dc2e645a35ef7
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\e8\e8a4f9fca6811be7207dc2e645a35ef7
+      projectPath: Library\Artifacts\e8\e8a4f9fca6811be7207dc2e645a35ef7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\eb\ebe7a600fa2ef7a94cb35aeb69315b71
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\eb\ebe7a600fa2ef7a94cb35aeb69315b71
+      projectPath: Library\Artifacts\eb\ebe7a600fa2ef7a94cb35aeb69315b71
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\ee\eec72b697a9d9b0ed6420ce55e1812d5
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\ee\eec72b697a9d9b0ed6420ce55e1812d5
+      projectPath: Library\Artifacts\ee\eec72b697a9d9b0ed6420ce55e1812d5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\f0\f03cd3bfb00ede8a1a9e16cbcc757fb5
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\f0\f03cd3bfb00ede8a1a9e16cbcc757fb5
+      projectPath: Library\Artifacts\f0\f03cd3bfb00ede8a1a9e16cbcc757fb5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\f0\f068d4b64c9d97c6d83aa5e8720af20d
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\f0\f068d4b64c9d97c6d83aa5e8720af20d
+      projectPath: Library\Artifacts\f0\f068d4b64c9d97c6d83aa5e8720af20d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\f1\f199cfe7df1a0eab314eefb249ed10c2
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\f1\f199cfe7df1a0eab314eefb249ed10c2
+      projectPath: Library\Artifacts\f1\f199cfe7df1a0eab314eefb249ed10c2
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\f5\f5d5b20fd08dc07695262a66f1a0653f
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\f5\f5d5b20fd08dc07695262a66f1a0653f
+      projectPath: Library\Artifacts\f5\f5d5b20fd08dc07695262a66f1a0653f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\f6\f69e448917437ecadeb055813722413b
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\f6\f69e448917437ecadeb055813722413b
+      projectPath: Library\Artifacts\f6\f69e448917437ecadeb055813722413b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\f7\f763b4300d7f51683df4f909b80f98e7
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\f7\f763b4300d7f51683df4f909b80f98e7
+      projectPath: Library\Artifacts\f7\f763b4300d7f51683df4f909b80f98e7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\f7\f7a373e58c3a45c1d61abdd50084b344
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\f7\f7a373e58c3a45c1d61abdd50084b344
+      projectPath: Library\Artifacts\f7\f7a373e58c3a45c1d61abdd50084b344
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\f8\f84ae77d5155f402bdf21f82fa3785a0
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\f8\f84ae77d5155f402bdf21f82fa3785a0
+      projectPath: Library\Artifacts\f8\f84ae77d5155f402bdf21f82fa3785a0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\Artifacts\fe\fe1e54ade6942d06fd62f1f2ecdc6041
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Artifacts\fe\fe1e54ade6942d06fd62f1f2ecdc6041
+      projectPath: Library\Artifacts\fe\fe1e54ade6942d06fd62f1f2ecdc6041
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+      projectPath: Library\PackageCache\com.unity.ide.rider@1.1.4\package.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\SceneVisibilityState.asset
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.dll
+      projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.pdb
+      projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+      projectPath: Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.Subsystem.Registration.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.Subsystem.Registration.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Subsystem.Registration.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.Timeline.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.Timeline.pdb
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARCore.Editor.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARCore.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARCore.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARCore.Editor.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARCore.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARCore.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARCore.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARCore.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARCore.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARCore.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARCore.pdb
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARCore.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARFoundation.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARFoundation.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARFoundation.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARFoundation.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARFoundation.pdb
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARFoundation.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARKit.Editor.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARKit.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARKit.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARKit.Editor.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARKit.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARKit.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARKit.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARKit.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARKit.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARKit.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARKit.pdb
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARKit.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARSubsystems.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARSubsystems.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARSubsystems.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.ARSubsystems.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.ARSubsystems.pdb
+      projectPath: Library\ScriptAssemblies\Unity.XR.ARSubsystems.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.Management.Editor.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.Management.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.XR.Management.Editor.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.Management.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.Management.dll
+      projectPath: Library\ScriptAssemblies\Unity.XR.Management.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\Unity.XR.Management.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\Unity.XR.Management.pdb
+      projectPath: Library\ScriptAssemblies\Unity.XR.Management.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\UnityEditor.UI.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\UnityEditor.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ScriptAssemblies\UnityEngine.UI.pdb
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ScriptAssemblies\UnityEngine.UI.pdb
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache.db
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache.db
+      projectPath: Library\ShaderCache.db
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\0\000c2d341091bfc117bfbc0c53d14bf4.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\0\000c2d341091bfc117bfbc0c53d14bf4.bin
+      projectPath: Library\ShaderCache\0\000c2d341091bfc117bfbc0c53d14bf4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\0\02a25acbab194306a6cfd869316668e1.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\0\02a25acbab194306a6cfd869316668e1.bin
+      projectPath: Library\ShaderCache\0\02a25acbab194306a6cfd869316668e1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\0\0739be7117efb223d9a830cb5ec816d4.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\0\0739be7117efb223d9a830cb5ec816d4.bin
+      projectPath: Library\ShaderCache\0\0739be7117efb223d9a830cb5ec816d4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\0\0cf503a0b37fb111f8f17811c9e6abe1.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\0\0cf503a0b37fb111f8f17811c9e6abe1.bin
+      projectPath: Library\ShaderCache\0\0cf503a0b37fb111f8f17811c9e6abe1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\2\2989b7b4e2a6b9f20dbc633f2dd7a0cd.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\2\2989b7b4e2a6b9f20dbc633f2dd7a0cd.bin
+      projectPath: Library\ShaderCache\2\2989b7b4e2a6b9f20dbc633f2dd7a0cd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\2\2ab9c6247758335fe080d74fbeff157f.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\2\2ab9c6247758335fe080d74fbeff157f.bin
+      projectPath: Library\ShaderCache\2\2ab9c6247758335fe080d74fbeff157f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\3\3d0d3208de5cee97ef584ede86036770.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\3\3d0d3208de5cee97ef584ede86036770.bin
+      projectPath: Library\ShaderCache\3\3d0d3208de5cee97ef584ede86036770.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\3\3f137944cce89b7088c70fbea1e759d7.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\3\3f137944cce89b7088c70fbea1e759d7.bin
+      projectPath: Library\ShaderCache\3\3f137944cce89b7088c70fbea1e759d7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\4\4f2c5295d4d030dd412c4b29507b8f09.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\4\4f2c5295d4d030dd412c4b29507b8f09.bin
+      projectPath: Library\ShaderCache\4\4f2c5295d4d030dd412c4b29507b8f09.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\5\5421454e93d551b111f68629ed01716e.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\5\5421454e93d551b111f68629ed01716e.bin
+      projectPath: Library\ShaderCache\5\5421454e93d551b111f68629ed01716e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\5\577d3f12dac9cb598d4558b20553ac6d.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\5\577d3f12dac9cb598d4558b20553ac6d.bin
+      projectPath: Library\ShaderCache\5\577d3f12dac9cb598d4558b20553ac6d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\6\6034fd7964facb38bef98ce770704599.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\6\6034fd7964facb38bef98ce770704599.bin
+      projectPath: Library\ShaderCache\6\6034fd7964facb38bef98ce770704599.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\6\63c81eba248f806fc40e52168ea0724d.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\6\63c81eba248f806fc40e52168ea0724d.bin
+      projectPath: Library\ShaderCache\6\63c81eba248f806fc40e52168ea0724d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\7\71010b76df19d08f5a182e15f119a0a0.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\7\71010b76df19d08f5a182e15f119a0a0.bin
+      projectPath: Library\ShaderCache\7\71010b76df19d08f5a182e15f119a0a0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\7\717c18b5079fd9f39927ffe594e204a0.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\7\717c18b5079fd9f39927ffe594e204a0.bin
+      projectPath: Library\ShaderCache\7\717c18b5079fd9f39927ffe594e204a0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\7\74e6249730d8704de5474563eb4bf08b.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\7\74e6249730d8704de5474563eb4bf08b.bin
+      projectPath: Library\ShaderCache\7\74e6249730d8704de5474563eb4bf08b.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\7\76e121432ed96bf657122ab9eb6938b8.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\7\76e121432ed96bf657122ab9eb6938b8.bin
+      projectPath: Library\ShaderCache\7\76e121432ed96bf657122ab9eb6938b8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\7\77bb8859119db11fffe7190c90d696ee.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\7\77bb8859119db11fffe7190c90d696ee.bin
+      projectPath: Library\ShaderCache\7\77bb8859119db11fffe7190c90d696ee.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\7\782fb73dd7e543b73261c371d0017ed2.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\7\782fb73dd7e543b73261c371d0017ed2.bin
+      projectPath: Library\ShaderCache\7\782fb73dd7e543b73261c371d0017ed2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\7\7843e6164af70edc6170b39442738c6e.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\7\7843e6164af70edc6170b39442738c6e.bin
+      projectPath: Library\ShaderCache\7\7843e6164af70edc6170b39442738c6e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\7\795fb9ef84f8709bf68fcf6b0e3dc528.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\7\795fb9ef84f8709bf68fcf6b0e3dc528.bin
+      projectPath: Library\ShaderCache\7\795fb9ef84f8709bf68fcf6b0e3dc528.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\8\8dca20e4753e3f03e63c16a91ece7538.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\8\8dca20e4753e3f03e63c16a91ece7538.bin
+      projectPath: Library\ShaderCache\8\8dca20e4753e3f03e63c16a91ece7538.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\9\9200d407a125a9bdf99082db99b066f4.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\9\9200d407a125a9bdf99082db99b066f4.bin
+      projectPath: Library\ShaderCache\9\9200d407a125a9bdf99082db99b066f4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\9\9f58f9f457dc2f10ebf2faa5d50f95f0.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\9\9f58f9f457dc2f10ebf2faa5d50f95f0.bin
+      projectPath: Library\ShaderCache\9\9f58f9f457dc2f10ebf2faa5d50f95f0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\a\a512cbfb566d12879af0935234627c97.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\a\a512cbfb566d12879af0935234627c97.bin
+      projectPath: Library\ShaderCache\a\a512cbfb566d12879af0935234627c97.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\b\b5dc81914da44e42487692f1b80a0ba8.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\b\b5dc81914da44e42487692f1b80a0ba8.bin
+      projectPath: Library\ShaderCache\b\b5dc81914da44e42487692f1b80a0ba8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\b\bd8bc4961a050486c46bd733ab54dea4.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\b\bd8bc4961a050486c46bd733ab54dea4.bin
+      projectPath: Library\ShaderCache\b\bd8bc4961a050486c46bd733ab54dea4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\c\c85e92c360be5ff0058f2cca2c205d5c.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\c\c85e92c360be5ff0058f2cca2c205d5c.bin
+      projectPath: Library\ShaderCache\c\c85e92c360be5ff0058f2cca2c205d5c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\e\ea29543eeaa9fa2d98b948ce4d529888.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\e\ea29543eeaa9fa2d98b948ce4d529888.bin
+      projectPath: Library\ShaderCache\e\ea29543eeaa9fa2d98b948ce4d529888.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\e\eb946504d3c5deeac0260b06258d9b09.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\e\eb946504d3c5deeac0260b06258d9b09.bin
+      projectPath: Library\ShaderCache\e\eb946504d3c5deeac0260b06258d9b09.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\e\ec3240491bd142751cbf5ec983590125.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\e\ec3240491bd142751cbf5ec983590125.bin
+      projectPath: Library\ShaderCache\e\ec3240491bd142751cbf5ec983590125.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\e\ee5624f3d56cd9b1a980970efa70cf40.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\e\ee5624f3d56cd9b1a980970efa70cf40.bin
+      projectPath: Library\ShaderCache\e\ee5624f3d56cd9b1a980970efa70cf40.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\e\eff2004aae07db57e5be711a4d493a7e.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\e\eff2004aae07db57e5be711a4d493a7e.bin
+      projectPath: Library\ShaderCache\e\eff2004aae07db57e5be711a4d493a7e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\f\f21bbd220f6fd2fe71a0f51011d9ccaa.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\f\f21bbd220f6fd2fe71a0f51011d9ccaa.bin
+      projectPath: Library\ShaderCache\f\f21bbd220f6fd2fe71a0f51011d9ccaa.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\f\f718a2ddf2347c1813060bdc34895bf7.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\f\f718a2ddf2347c1813060bdc34895bf7.bin
+      projectPath: Library\ShaderCache\f\f718a2ddf2347c1813060bdc34895bf7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\ShaderCache\f\fef0ae90f2b1c625aac937ba4a2c5f24.bin
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\ShaderCache\f\fef0ae90f2b1c625aac937ba4a2c5f24.bin
+      projectPath: Library\ShaderCache\f\fef0ae90f2b1c625aac937ba4a2c5f24.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\SourceAssetDB
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\Style.catalog
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\Style.catalog
+      projectPath: Library\Style.catalog
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\expandedItems
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: MSease\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: MSease\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\felix\Unity\MSease\MSease\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 2d164a355fcc24f90774433bb688cc292765a2e0
     mergeA: 
     mergeB: 
